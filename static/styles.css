@@ -1,0 +1,39 @@
+body {
+    background: linear-gradient(to right, #f6d365, #fda085);
+    color: #333;
+}
+
+.container {
+    border: 2px solid #f6d365;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px auto;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.form-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.transaction-table {
+    margin-top: 20px;
+}
+
+.transaction-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.btn-primary {
+    background-color: #f6d365;
+    border-color: #f6d365;
+}
+
+.btn-primary:hover {
+    background-color: #f6d365;
+    border-color: #f6d365;
+}

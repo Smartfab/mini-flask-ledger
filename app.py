@@ -94,7 +94,7 @@ def search_transactions():
 # Total Balance
 @app.route("/balance")
 def total_balance():
-    
+    pass
 
 
 # Run the Flask app
